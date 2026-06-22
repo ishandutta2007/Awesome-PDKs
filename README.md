@@ -1,9 +1,19 @@
-# Awesome-PDKs
-## Top Open-Source PDKs & Tools Ecosystem
+<div align="center">
+
+<img src="./assets/banner.svg" alt="Awesome PDKs Banner" width="800">
+
+# 🚀 Awesome-PDKs
+### 🌟 Top Open-Source PDKs & Tools Ecosystem
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **Curated List of Commercial & Open-Source Process Design Kits & EDA Tools**  
 *Focused on Semiconductor Manufacturing & Chip Design*  
 **Last updated: March 2026**
+
+</div>
 
 This repository tracks notable **commercial PDKs** and **open-source projects** for **Process Design Kits (PDKs)** and related EDA tools. These resources enable chip designers to create physical layouts, simulate performance, and prepare designs for fabrication across various technology nodes.
 
@@ -13,15 +23,15 @@ This repository tracks notable **commercial PDKs** and **open-source projects** 
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📚 Table of Contents
 - [Commercial / Proprietary PDKs](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## Commercial / Proprietary PDKs
+## 💼 Commercial / Proprietary PDKs
 
-### Major Foundry PDKs
+### 🏭 Major Foundry PDKs
 
 | Product | Description | Pricing | Free Tier Limit | Company Size (Market Cap) |
 |---------|-------------|---------|-----------------|---------------------------|
@@ -30,13 +40,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Intel 16 (16nm Node)](https://intel.com/)** | Mature and widely available process for high-volume digital and mixed-signal designs. | Custom / NDA | N/A | ~$180B+ |
 | **[Tower Semiconductor SBC18 (0.18µm Node)](https://towersemi.com/)** | Reliable specialty process for analog, power management, and RF designs. | Custom / NDA | N/A | ~$3.5B+ |
 
-### Advanced Nodes
+### 🔬 Advanced Nodes
 
 **Other notable mentions**: GlobalFoundries, UMC, and various specialty process nodes.
 
-## Open-Source GitHub Projects
+## 🌐 Open-Source GitHub Projects
 
-### Dedicated Open PDKs & EDA Tools
+### 🛠️ Dedicated Open PDKs & EDA Tools
 
 - **[SkyWater SKY130 (130nm Node)](https://github.com/google/skywater-pdk)** [![GitHub stars](https://img.shields.io/github/stars/google/skywater-pdk?style=social&color=white)](https://github.com/google/skywater-pdk/stargazers)  
   The most popular open-source PDK, developed in collaboration with Google and SkyWater Technology. Fully manufacturable and widely used for open-source chip tapeouts.
@@ -68,7 +78,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[IHP SG13G2 (130nm Node)](https://github.com/IHP-GmbH/IHP-SG13G2)** [![GitHub stars](https://img.shields.io/github/stars/IHP-GmbH/IHP-SG13G2?style=social&color=white)](https://github.com/IHP-GmbH/IHP-SG13G2/stargazers)  
   High-performance open-source BiCMOS PDK from IHP for RF and high-speed applications.
 
-### Additional Strong Open-Source Options
+### 🔧 Additional Strong Open-Source Options
 
 - **[IHP Open PDK](https://github.com/IHP-GmbH)** — Additional IHP process nodes and tools.
 - **[GlobalFoundries Open PDK variants](https://github.com/google)** — Community maintained extensions.
@@ -79,7 +89,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Recommended Toolchains**: **OpenROAD + OpenLane** with **SkyWater SKY130** for full open-source chip design from RTL to GDSII.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -88,7 +98,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Open PDKs may have usage restrictions for commercial tapeouts. Always check foundry shuttle programs and licenses.
