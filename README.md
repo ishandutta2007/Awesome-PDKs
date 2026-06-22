@@ -38,35 +38,35 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Open PDKs & EDA Tools
 
-- **[SkyWater SKY130 (130nm Node)](https://github.com/google/skywater-pdk)**  
+- **[SkyWater SKY130 (130nm Node)](https://github.com/google/skywater-pdk)** [![GitHub stars](https://img.shields.io/github/stars/google/skywater-pdk?style=social&color=white)](https://github.com/google/skywater-pdk/stargazers)  
   The most popular open-source PDK, developed in collaboration with Google and SkyWater Technology. Fully manufacturable and widely used for open-source chip tapeouts.
 
-- **[GlobalFoundries GF180MCU (180nm Node)](https://github.com/google/gf180mcu-pdk)**  
-  Open-source PDK for 180nm process, suitable for analog, mixed-signal, and IoT designs.
-
-- **[IHP SG13G2 (130nm Node)](https://github.com/IHP-GmbH/IHP-SG13G2)**  
-  High-performance open-source BiCMOS PDK from IHP for RF and high-speed applications.
-
-- **[OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD)**  
-  Complete open-source RTL-to-GDSII flow for automated chip design, tightly integrated with open PDKs.
-
-- **[OpenLane](https://github.com/The-OpenROAD-Project/OpenLane)**  
+- **[OpenLane](https://github.com/The-OpenROAD-Project/OpenLane)** [![GitHub stars](https://img.shields.io/github/stars/The-OpenROAD-Project/OpenLane?style=social&color=white)](https://github.com/The-OpenROAD-Project/OpenLane/stargazers)  
   End-to-end open-source RTL-to-GDSII flow based on OpenROAD, widely used with SkyWater SKY130.
 
-- **[Magic VLSI](https://github.com/RTimothyEdwards/magic)**  
-  Classic open-source VLSI layout tool with strong support for open PDKs and interactive editing.
-
-- **[KLayout](https://github.com/KLayout/klayout)**  
+- **[KLayout](https://github.com/KLayout/klayout)** [![GitHub stars](https://img.shields.io/github/stars/KLayout/klayout?style=social&color=white)](https://github.com/KLayout/klayout/stargazers)  
   High-performance open-source layout viewer and editor with excellent scripting support for PDK development.
 
-- **[efabless Open PDK](https://github.com/efabless)**  
-  Community-driven open PDK initiatives and shuttle programs built on SkyWater technology.
+- **[OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD)** [![GitHub stars](https://img.shields.io/github/stars/The-OpenROAD-Project/OpenROAD?style=social&color=white)](https://github.com/The-OpenROAD-Project/OpenROAD/stargazers)  
+  Complete open-source RTL-to-GDSII flow for automated chip design, tightly integrated with open PDKs.
 
-- **[Caravel](https://github.com/efabless/caravel)**  
+- **[Caravel](https://github.com/efabless/caravel)** [![GitHub stars](https://img.shields.io/github/stars/efabless/caravel?style=social&color=white)](https://github.com/efabless/caravel/stargazers)  
   Open-source SoC harness and management framework for MPW (Multi-Project Wafer) shuttles.
 
-- **[Analog Circuit Tools (xschem, ngspice)](https://github.com/StefanSchippers/xschem)**  
+- **[Magic VLSI](https://github.com/RTimothyEdwards/magic)** [![GitHub stars](https://img.shields.io/github/stars/RTimothyEdwards/magic?style=social&color=white)](https://github.com/RTimothyEdwards/magic/stargazers)  
+  Classic open-source VLSI layout tool with strong support for open PDKs and interactive editing.
+
+- **[GlobalFoundries GF180MCU (180nm Node)](https://github.com/google/gf180mcu-pdk)** [![GitHub stars](https://img.shields.io/github/stars/google/gf180mcu-pdk?style=social&color=white)](https://github.com/google/gf180mcu-pdk/stargazers)  
+  Open-source PDK for 180nm process, suitable for analog, mixed-signal, and IoT designs.
+
+- **[efabless Open PDK](https://github.com/efabless/open_pdks)** [![GitHub stars](https://img.shields.io/github/stars/efabless/open_pdks?style=social&color=white)](https://github.com/efabless/open_pdks/stargazers)  
+  Community-driven open PDK initiatives and shuttle programs built on SkyWater technology.
+
+- **[Analog Circuit Tools (xschem, ngspice)](https://github.com/StefanSchippers/xschem)** [![GitHub stars](https://img.shields.io/github/stars/StefanSchippers/xschem?style=social&color=white)](https://github.com/StefanSchippers/xschem/stargazers)  
   Open-source schematic capture and simulation tools commonly used with open PDKs.
+
+- **[IHP SG13G2 (130nm Node)](https://github.com/IHP-GmbH/IHP-SG13G2)** [![GitHub stars](https://img.shields.io/github/stars/IHP-GmbH/IHP-SG13G2?style=social&color=white)](https://github.com/IHP-GmbH/IHP-SG13G2/stargazers)  
+  High-performance open-source BiCMOS PDK from IHP for RF and high-speed applications.
 
 ### Additional Strong Open-Source Options
 
