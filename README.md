@@ -23,17 +23,12 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Major Foundry PDKs
 
-- **[TSMC N3 (3nm Node)](https://tsmc.com/)**  
-  Industry-leading advanced node PDK for high-performance, low-power chip design.
-
-- **[Intel 16 (16nm Node)](https://intel.com/)**  
-  Mature and widely available process for high-volume digital and mixed-signal designs.
-
-- **[Samsung 4LPP (4nm Low Power Plus)](https://semiconductor.samsung.com/)**  
-  Advanced low-power process optimized for mobile and high-efficiency applications.
-
-- **[Tower Semiconductor SBC18 (0.18µm Node)](https://towersemi.com/)**  
-  Reliable specialty process for analog, power management, and RF designs.
+| Product | Description | Pricing | Free Tier Limit |
+|---------|-------------|---------|-----------------|
+| **[TSMC N3 (3nm Node)](https://tsmc.com/)** | Industry-leading advanced node PDK for high-performance, low-power chip design. | Custom / NDA | N/A |
+| **[Intel 16 (16nm Node)](https://intel.com/)** | Mature and widely available process for high-volume digital and mixed-signal designs. | Custom / NDA | N/A |
+| **[Samsung 4LPP (4nm Low Power Plus)](https://semiconductor.samsung.com/)** | Advanced low-power process optimized for mobile and high-efficiency applications. | Custom / NDA | N/A |
+| **[Tower Semiconductor SBC18 (0.18µm Node)](https://towersemi.com/)** | Reliable specialty process for analog, power management, and RF designs. | Custom / NDA | N/A |
 
 ### Advanced Nodes
 
